@@ -1,0 +1,15 @@
+.button-1,
+.button-2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.button-1 {
+    background-color: black;
+    color:aliceblue;
+}
+
+.button-2 {
+    background-color: yellow;
+    color: black;
+}
